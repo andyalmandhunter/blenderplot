@@ -48,7 +48,7 @@ class BlenderAxis:
     '''Class for storing, manipulating, and rendering a 3D surface plot and
     axis in Blender.  Output uses Blender internal rendering for
     plotting, and LaTeX/TikZ for rendering the axes.  Output to both
-    pdf (raster plot, vector axes and text) or pdf (all raster).  All
+    pdf (raster plot, vector axes and text) or png (all raster).  All
     raster output has a resolution of self.dpi
     '''
 
